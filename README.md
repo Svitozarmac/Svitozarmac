@@ -14,7 +14,8 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 ## Skills
 
 **Programming Languages**
-- Java, Python, C, JavaScript
+- Java, Python, C, JavaScript, Kotlin
+
 
 **Databases**
 - MySQL, MongoDB Atlas, Neo4j
