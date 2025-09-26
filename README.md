@@ -47,7 +47,7 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 - Application to purchase train tickets, select stations, and calculate travel duration
 - Designed with a focus on user experience and validation
 
-### [MTU Marketplace Platform(Requirements Engineering)](#mtu-marketplace)
+### [MTU Marketplace Platform (Requirements Engineering)](#mtu-marketplace)
 - Created prototype with **JustInMind**
 - Defined **use case diagrams, scenarios, and non-functional requirements** using Visual Paradigm
 - Managed workflow using a **Trello Board**
