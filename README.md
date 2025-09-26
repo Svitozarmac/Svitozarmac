@@ -1,9 +1,13 @@
 # Hi, I'm Svitozar
 
-Software Development student at **Munster Technological University (Cork, Ireland)**
-Passionate about creating **useful and innovative appplications** 
-Strong foundations in **Object-Oriented Programming, Databases, and Web Development**
-Always eager to learn, adapt, and apply problem-solving skills to real-world challenges
+Software Development student at **Munster Technological University (Cork, Ireland)**  
+
+Passionate about creating **useful and innovative appplications**  
+
+Strong foundations in **Object-Oriented Programming, Databases, and Web Development**  
+
+Always eager to learn, adapt, and apply problem-solving skills to real-world challenges  
+
 
 ---
 
