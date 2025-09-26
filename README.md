@@ -38,7 +38,7 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 - Allows dynamic equipment registration, search, update, and deletion
 - Implemented responsive styling with CSS
 
-###  [Electronics Store Application (Java, MySQL)](#)
+###  [Electronics Store Application (Java, MySQL)](#electronics-store-application)
 - Designed using **MVC pattern**
 - Integrated with **MySQL database** for customer and item management
 - Applied **Singleton, Builder, and DAO design patterns**
@@ -47,12 +47,12 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 - Application to purchase train tickets, select stations, and calculate travel duration
 - Designed with a focus on user experience and validation
 
-### [MTU Marketplace Platform(Requirements Engineering)](#)
+### [MTU Marketplace Platform(Requirements Engineering)](#mtu-marketplace)
 - Created prototype with **JustInMind**
 - Defined **use case diagrams, scenarios, and non-functional requirements** using Visual Paradigm
 - Managed workflow using a **Trello Board**
 
-### [Oak Valley Furniture Company (OO Analysis & Design)](#)
+### [Oak Valley Furniture Company (OO Analysis & Design)](#object-oriented-analysis-design)
 - Built **domain and design models** applying OOP principles
 - Used **Controller, Singleton, and Open/Closed Principle**
 - Took initiative to ensure project completion
