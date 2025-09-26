@@ -33,7 +33,7 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 
 ## Projects
 
-### [Equipment Registration System] (#)
+### [Equipment Registration System] (#equipment-registration-system)
 - Built with **Node.js, Express.js, MongoDB, and EJS**
 - Allows dynamic equipment registration, search, update, and deletion
 - Implemented responsive styling with CSS
