@@ -28,7 +28,7 @@ Always eager to learn, adapt, and apply problem-solving skills to real-world cha
 
 **Other Skills**
 - Analytical Thinking, Problem-Solving, Crirtical Thinking, Technical Documentation, Networking
-- OS: Windows, Linux, MacOS
+- OS: Windows, Linux, MacOS, iOS
 
 ---
 
